@@ -19,7 +19,7 @@ A fun and interactive browser-based game to measure your **reaction speed**! Thi
 
 Click the **Start Test** button and respond to each alert box as fast as you can.
 
-[Live Demo]()
+[Live Demo](https://tehreem-javed.github.io/Reaction-Time-Test/)
 
 ---
 
