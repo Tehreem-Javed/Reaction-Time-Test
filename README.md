@@ -55,7 +55,7 @@ To run the project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/reaction-time-test.git
+   git clone https://github.com/Tehreem-Javed/Reaction-Time-Test.git
    ```
 
 2. Navigate to the project folder:
